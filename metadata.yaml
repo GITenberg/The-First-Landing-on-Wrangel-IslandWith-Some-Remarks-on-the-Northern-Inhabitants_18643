@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8168'
     url: http://www.gutenberg.org/2009/agents/8168
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18643#The-First-Landing-on-Wrangel-IslandWith-Some-Remarks-on-the-Northern-Inhabitants
 gutenberg_issued: '2006-06-21'
 gutenberg_type: Text
 identifiers:
