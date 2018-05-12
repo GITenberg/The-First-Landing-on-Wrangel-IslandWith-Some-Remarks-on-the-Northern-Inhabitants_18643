@@ -1,0 +1,31 @@
+_repo: The-First-Landing-on-Wrangel-IslandWith-Some-Remarks-on-the-Northern-Inhabitants_18643
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosse, Irving C. (Irving Collins)
+    alias: Rosse, Irving Collins
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '8168'
+    url: http://www.gutenberg.org/2009/agents/8168
+description: ''
+gutenberg_issued: '2006-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Saint Lawrence Island (Alaska)'
+- !lcsh 'Eskimos'
+- !lcc 'G'
+- !lcsh 'Wrangel Island (Russia)'
+title: 'The First Landing on Wrangel Island
+
+  With Some Remarks on the Northern Inhabitants'
+url: http://www.gutenberg.org/ebooks/18643
